@@ -45,7 +45,7 @@ django-ordered-model==2.1.0
 django-payfast==0.3
 -e git://github.com/cypreess/django-plans.git@5cf0c429efd31482aca43ca3a3049c3b2b07153e#egg=django_plans
 django-queued-storage==0.8.0
-django-registration==3.0
+django-registration==3.1.2
 django-rest-auth==0.9.3
 django-storages==1.7.1
 django-user-accounts==2.0.3
