@@ -195,7 +195,7 @@ requests-unixsocket==0.1.5
 rope==0.11.0
 Rx==1.6.1
 scipy==1.1.0
-Scrapy==1.5.1
+Scrapy==1.8.1
 scrapy-fake-useragent==1.1.0
 scrapy-splash==0.7.2
 seaborn==0.9.0
