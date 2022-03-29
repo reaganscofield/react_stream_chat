@@ -130,7 +130,7 @@ opencv-python==4.0.0.21
 packaging==18.0
 pandas==0.23.4
 pandocfilters==1.4.2
-paramiko==2.4.2
+paramiko==2.10.1
 parsel==1.5.0
 parso==0.3.1
 passlib==1.7.1
